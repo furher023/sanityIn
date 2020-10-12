@@ -1,4 +1,4 @@
-## A proposed website layout under progress for a menatl health web platform
+## A proposed website layout under progress for a mental health web platform
 
 Deployed at https://sanityin.herokuapp.com/home
 
