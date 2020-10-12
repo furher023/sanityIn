@@ -1,3 +1,6 @@
+##A proposed website layout under progress for a menatl health web platform
+Deployed at https://sanityin.herokuapp.com/home
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
