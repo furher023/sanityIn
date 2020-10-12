@@ -1,0 +1,32 @@
+#homeTop{
+  background-image:  url('https://www.jing.fm/clipimg/detail/261-2613308_mental-health-addictive-behaviours.png');
+  height: 400px;
+  background-position: center;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+#temp{
+  display: none;
+}
+
+.Blogs{
+  padding: 20px;
+}
+
+.LoginRegister{
+  padding: 20px;
+}
+
+#login{
+  text-align: center;
+  border-right: 2px solid gray;
+}
+
+#register{
+  text-align: center;
+}
