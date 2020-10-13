@@ -5,6 +5,8 @@ import Home from './Home'
 import Doctors from './Doctors';
 import Blogs from './Blogs';
 import Login from './Login'
+import SignInSide from './NewLogin';
+import SignUp from './SignUp';
 import {Switch,Route,Redirect} from 'react-router-dom';
 
 class Main extends Component{
@@ -18,8 +20,9 @@ class Main extends Component{
             <Switch>
                 <Route path='/home' component={Home} />
                 <Route path='/doctors' component={Doctors} />
-                <Route path='/login' component={Login} />
+                <Route path='/login' component={SignInSide} />
                 <Route path='/blogs' component={Blogs} />
+                <Route path='/signup' component={SignUp} />
                 <Redirect to='/home' />
             </Switch>
             <br />
